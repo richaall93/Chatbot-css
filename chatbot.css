@@ -1,0 +1,36 @@
+/* Set the background color of the chat container to dark purple */
+.vfrc-chat-container {
+    background-color: #4B0082; /* Dark purple */
+  }
+  
+  /* Set the background color of user messages to light purple */
+  .vfrc-user-message {
+    background-color: #E6E6FA; /* Light purple */
+    color: #000000; /* Black text for readability */
+  }
+  
+  /* Set the background color of assistant messages to light purple */
+  .vfrc-assistant-message {
+    background-color: #E6E6FA; /* Light purple */
+    color: #000000; /* Black text for readability */
+  }
+  
+  /* Style the input box with an intermediate purple shade */
+  .vfrc-input-box {
+    background-color: #9370DB; /* Medium purple */
+    color: #FFFFFF; /* White text */
+    border: none; /* Remove border */
+    padding: 10px; /* Add padding for better appearance */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  /* Style the send button with an intermediate purple shade */
+  .vfrc-send-button {
+    background-color: #9370DB; /* Medium purple */
+    color: #FFFFFF; /* White text */
+    border: none; /* Remove border */
+    padding: 10px; /* Add padding for better appearance */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
